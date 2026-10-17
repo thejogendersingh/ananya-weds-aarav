@@ -1,0 +1,13 @@
+{
+  "functions": {
+    "server.js": {
+      "includeFiles": "{assets/**,audio/**,index.html,favicon.ico,placeholder.svg,robots.txt}"
+    }
+  },
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "/server.js"
+    }
+  ]
+}

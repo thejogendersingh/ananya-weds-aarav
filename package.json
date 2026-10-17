@@ -1,0 +1,15 @@
+{
+  "name": "ananya-weds-aarav",
+  "version": "1.0.0",
+  "description": "Ananya & Aarav Wedding Invitation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "wedding-invitation"
+  ],
+  "author": "",
+  "license": "ISC"
+}
