@@ -1,0 +1,13 @@
+{
+  "name": "khushi-pranay-wedding-invitation",
+  "version": "1.0.0",
+  "description": "Exact clone of Khushi & Pranay Wedding Invitation",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": ["wedding-invitation", "clone"],
+  "author": "",
+  "license": "ISC"
+}
