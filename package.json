@@ -1,13 +1,15 @@
 {
-  "name": "khushi-pranay-wedding-invitation",
+  "name": "ananya-weds-aarav",
   "version": "1.0.0",
-  "description": "Exact clone of Khushi & Pranay Wedding Invitation",
-  "main": "server.js",
+  "description": "Ananya & Aarav Wedding Invitation",
   "scripts": {
+    "build": "node build.js",
     "start": "node server.js",
     "dev": "node server.js"
   },
-  "keywords": ["wedding-invitation", "clone"],
+  "keywords": [
+    "wedding-invitation"
+  ],
   "author": "",
   "license": "ISC"
 }
