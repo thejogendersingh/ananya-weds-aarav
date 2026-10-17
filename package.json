@@ -3,13 +3,6 @@
   "version": "1.0.0",
   "description": "Ananya & Aarav Wedding Invitation",
   "scripts": {
-    "build": "node build.js",
-    "start": "npx -y serve -p 3000",
-    "dev": "npx -y serve -p 3000"
-  },
-  "keywords": [
-    "wedding-invitation"
-  ],
-  "author": "",
-  "license": "ISC"
+    "start": "npx -y serve . -p 3000"
+  }
 }
