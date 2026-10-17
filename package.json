@@ -1,8 +1,0 @@
-{
-  "name": "ananya-weds-aarav",
-  "version": "1.0.0",
-  "description": "Ananya & Aarav Wedding Invitation",
-  "scripts": {
-    "start": "npx -y serve . -p 3000"
-  }
-}
